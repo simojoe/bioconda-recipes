@@ -32,3 +32,5 @@ extra:
   identifiers:
     - biotools:gcta
     - doi:10.1016/j.ajhg.2010.11.011 
+  skip-lints:
+    - should_not_be_noarch_source
