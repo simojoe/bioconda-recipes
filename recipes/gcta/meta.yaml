@@ -27,9 +27,7 @@ test:
 about:
   home: "https://cnsgenomics.com/software/gcta/"
   license: MIT
-  summary: 
-  
-  GCTA (Genome-wide Complex Trait Analysis) was initially designed to estimate the proportion of phenotypic variance explained by all genome-wide SNPs for complex traits. It has been subsequently extended for many other analyses to better understand the genetic architecture of complex traits.
+  summary: GCTA (Genome-wide Complex Trait Analysis) estimates the proportion of phenotypic variance explained by all genome-wide SNPs for complex traits.
 
 extra:
   identifiers:
