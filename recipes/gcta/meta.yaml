@@ -22,7 +22,7 @@ requirements:
     - zlib
 test:
   commands:
-    - gcta | grep "Analysis started"
+    - gcta64 | grep "Analysis started"
 
 about:
   home: "https://cnsgenomics.com/software/gcta/"
